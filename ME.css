@@ -1,0 +1,90 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
+
+#welcome {
+    background-repeat: no-repeat;
+    color: #64FFDA;
+}
+
+#img {
+    border-radius: 35%;
+}
+
+#title {
+    color: skyblue;
+}
+
+.line {
+    height: 6px;
+    background-color: skyblue;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#abo {
+    color: skyblue;
+}
+
+.links {
+    float: left;
+    background-color: cyan;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10px;
+    cursor: pointer;
+    color: cyan;
+}
+
+.links:hover {
+    background-color: darkgreen;
+}
+
+#About {
+    
+    color: aquamarine;
+}
+
+#three {
+    color: black;
+}
+#Book {
+    color: aquamarine;
+}
+#h1111 {
+    color: skyblue;
+}
+#buddy from HR {
+    color:aquamarine;
+}
+#button {
+    background-color: cornflowerblue;
+    width: 250px;
+    height: 50px;
+}
+#Who_inspires_me{
+    color:skyblue;
+}
+
+h1{
+    color:skyblue;
+}
+.contact_1 h3{
+    display:inline;
+}
+.contact_1 a{
+    text-shadow: none;
+}
